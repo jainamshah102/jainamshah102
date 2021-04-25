@@ -40,15 +40,15 @@ Here are some ideas to get you started:
 
 <img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg">
 
+<img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+
+<img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+
 </p>
-
-<code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg"></code>
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-
-<code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg"></code>
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 <br/>
 <br/>
