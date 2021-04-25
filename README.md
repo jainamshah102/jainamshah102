@@ -20,7 +20,17 @@ Here are some ideas to get you started:
 
 -   ⚡ Fun fact: Python over Java
 
-<!-- ### Connect with me: -->
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="jainam2385 | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/linkedin.svg" />](https://www.linkedin.com/in/jainam-shah-22a236192/)
+[<img align="left" alt="jainam2385 | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/instagram.svg" />](https://www.instagram.com/jainam_shah____/)
+[<img align="left" alt="jainam2385 | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/gmail.svg" />](mailto:jainam102@gmail.com)
+[<img align="left" alt="jainam2385 | hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/hackerrank.svg" />](https://www.hackerrank.com/jainam102)
+
+<br/>
+
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jainam2385&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
