@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 
--   🔭 I’m currently working on Backend Development
+-   🔭 I’m currently working as Backend Developer
 
 -   🌱 I’m currently learning Machine Learning and Deep Learning
 
