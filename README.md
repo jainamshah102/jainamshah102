@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="jainam2385 | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/instagram.svg" />](https://www.instagram.com/jainam_shah____/)
 [<img align="left" alt="jainam2385 | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/gmail.svg" />](mailto:jainam102@gmail.com)
 [<img align="left" alt="jainam2385 | hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/hackerrank.svg" />](https://www.hackerrank.com/jainam102)
+[<img align="left" alt="jainam2385 | leetcode" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/leetcode.svg" />](https://leetcode.com/jainam2385/)
 
 <br/>
 
