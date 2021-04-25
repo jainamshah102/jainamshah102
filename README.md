@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="jainam2385 | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/jainam-shah-22a236192/)
-[<img align="left" alt="jainam2385 | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/instagram.svg" />](https://www.instagram.com/jainam_shah____/)
-[<img align="left" alt="jainam2385 | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/gmail.svg" />](mailto:jainam102@gmail.com)
-[<img align="left" alt="jainam2385 | hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/hackerrank.svg" />](https://www.hackerrank.com/jainam102)
-[<img align="left" alt="jainam2385 | leetcode" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/leetcode.svg" />](https://leetcode.com/jainam2385/)
+[<img align="left" alt="jainam2385 | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/jainam_shah____/)
+[<img align="left" alt="jainam2385 | Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:jainam102@gmail.com)
+[<img align="left" alt="jainam2385 | hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/jainam102)
 
 <br/>
 
