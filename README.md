@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**
 
-<p>
-<code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg"></code>
-
-<code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg"></code>
+<img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg"><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg">
 
 <code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg"></code>
 
@@ -47,8 +44,6 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg"></code>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-
-</p>
 
 <br/>
 <br/>
