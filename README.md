@@ -35,7 +35,12 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**
 
-<img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg"><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg">
+<p>
+<img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg">
+
+<img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg">
+
+</p>
 
 <code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg"></code>
 
