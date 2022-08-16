@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/jainam-shah-22a236192/)
+- [LinkedIn](https://www.linkedin.com/in/jainamshah102/)
 - [Instagram](https://www.instagram.com/jainamshah102/)
 - [Gmail](mailto:jainam102@gmail.com)
 
@@ -42,6 +42,6 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jainam2385&count_private=true&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=jainamshah102&count_private=true&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam2385&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainamshah102&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
